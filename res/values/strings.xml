@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TSFWorkshop</string>
+    <string name="button_selectSrt">Open a SubRip file (.srt)</string>
+    <string name="action_settings">Settings</string>
+    <string name="tag_fragment_FileSelect">FileSelectFragment</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_cancel">Cancel</string>
+    <string name="alert_file_select">Select File</string>
+
+</resources>
